@@ -4,7 +4,8 @@
   "description": "chatterly",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cp -r ./src ./dist"
   },
   "author": "",
   "license": "ISC",
