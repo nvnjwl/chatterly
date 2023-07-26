@@ -1,3 +1,14 @@
+#app{
+    height: 98%;
+    width: 98%;
+    position: fixed;
+    top:1%;
+    left:1%;
+    background-color: aliceblue;
+    border: 1px solid rgb(71, 50, 50);
+}
+
+
 #mainApp{
     background-color: azure;
     height: 200px;
